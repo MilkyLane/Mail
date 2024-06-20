@@ -1,0 +1,42 @@
+
+
+.read {
+    border-radius: 10px;
+    background-color: rgb(220, 20, 60);
+    padding: 0.7rem; 
+    margin-bottom: 0.7rem;
+
+}
+ul{
+    background-color: blanchedalmond;
+}
+
+.unread {
+    border-radius: 10px;
+    background-color: lightblue;
+    padding: 0.7rem; 
+    margin-bottom: 0.7rem;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/f4/86/49/f48649d482ad19ea6ef367c095741487.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h3 {
+    color: white;
+}
+
+.form-group {
+    color: white;
+}
+
+.card-body {
+
+    background-color: rgb(255, 162, 85);
+
+}
+.card{
+    background-color: rgb(255, 162, 85);
+}
