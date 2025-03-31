@@ -1,19 +1,17 @@
 # Mail
 
-This repository contains a Python-based email application that allows users to send and receive emails. The application is built using Flask for the backend and integrates with Gmail's SMTP server for sending emails. It also includes basic email validation and error handling.
+This repository contains a Python-based email application that allows users to send and receive emails. 
 
 ## Live Demo
 - https://youtu.be/nOgvwF5jA8s
 ## Features
-- Send emails using Gmail's SMTP server.
+- Send emails locally
 - Basic email validation (checks for valid email format).
-- Simple Flask-based web interface for sending emails.
 - Error handling for failed email delivery.
 
 ## Technologies Used
 - Python
-- Flask (Backend Framework)
-- SMTP (Simple Mail Transfer Protocol)
+- JS
 - HTML/CSS (Frontend)
 
 ## Setup Instructions
